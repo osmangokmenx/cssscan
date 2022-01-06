@@ -1,0 +1,148 @@
+{
+  "description": {
+    "message": "Hızlıca CSS özelliklerini incele ve kopyala"
+  },
+  "pause_continue": {
+    "message": "Duraklat / Devam et"
+  },
+  "scan_parent": {
+    "message": "Ana elementi tara"
+  },
+  "toggle_grid": {
+    "message": "Grid'i gizle"
+  },
+  "pin_shortcut": {
+    "message": "Sonucu sabitle"
+  },
+
+  "exit": {
+    "message": "CSS Scan'ı kapat"
+  },
+  "pause": {
+    "message": "Duraklat"
+  },
+  "continue": {
+    "message": "Devam et"
+  },
+  "move": {
+    "message": "Hareket et"
+  },
+  "shortcuts": {
+    "message": "Kısayollar"
+  },
+  "feedback": {
+    "message": "Geri bildirim"
+  },
+  "options": {
+    "message": "Ayarlar"
+  },
+  "whats_new": {
+    "message": "What's New"
+  },
+  "activate": {
+    "message": "Eklentiyi aktifleştir"
+  },
+  "close_shortcut": {
+    "message": "Eklentiyi kapat"
+  },
+
+
+  "options_copy_classes": {
+    "message": "Copy CSS selector"
+  },
+  "options_dont_copy_pseudo": {
+    "message": "Don't copy it"
+  },
+  "options_copy_pseudo": {
+    "message": "Copy it separately"
+  },
+  "options_nest_pseudo": {
+    "message": "Copy it nested (SASS/LESS)"
+  },
+  "options_ignore_prefixes": {
+    "message": "Ignore browser vendor prefixes"
+  },
+  "options_ignore_inherited": {
+    "message": "Ignore inherited styles"
+  },
+  "options_ignore_bxsizing": {
+    "message": "box-sizing'i geçersiz kıl"
+  },
+  "options_show_grid": {
+    "message": "Grid'i göster"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Class isimlerini kes"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "font-size değerlerini px değerine hesaplayarak çevir"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Kısayolların çalışması için sayfanın aktif olmasi gerekiyor. Uzantıyı her zaman kısayolla açarsanız daha pratik olur."
+  },
+  "shortcuts_warning_2": {
+    "message": "Üzerine tıklayarak da değiştirebilirsiniz."
+  },
+
+  "options_label_click_action": {
+    "message": "On click:"
+  },
+  "options_click_to_pin": {
+    "message": "Pin the CSS window"
+  },
+  "options_click_to_copy": {
+    "message": "Copy code"
+  },
+  "options_label_pseudos": {
+    "message": "Pseudo-classes and pseudo-elements:"
+  },
+  "options_label_html": {
+    "message": "HTML code:"
+  },
+  "options_label_display": {
+    "message": "Display:"
+  },
+  "options_label_miscellaneous": {
+    "message": "Miscellaneous:"
+  },
+  "options_dont_copy_html": {
+    "message": "Don't copy it"
+  },
+  "options_copy_html": {
+    "message": "Copy it separately"
+  },
+
+
+  "overlapping": {
+    "message": "örtüşen"
+  },
+  "hold": {
+    "message": "hold"
+  },
+  "click_traverse": {
+    "message": "and click to traverse"
+  },
+  "no_styles": {
+    "message": "No styles found"
+  },
+  "loading": {
+    "message": "Loading styles... Try again"
+  },
+  "local_error": {
+    "message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+  },
+  "click_to_copy": {
+    "message": "Click to copy, press space to pin"
+  },
+  "copied": {
+    "message": "Copied to clipboard"
+  },
+
+  "context_menu": {
+    "message": "Inspect with CSS Scan"
+  }
+}

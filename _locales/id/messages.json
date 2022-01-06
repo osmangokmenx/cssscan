@@ -1,0 +1,148 @@
+{
+  "description": {
+    "message": "Periksa dengan cepat dan salin CSS yang dikomputasi"
+  },
+  "pause_continue": {
+    "message": "Pause / Lanjutkan"
+  },
+  "scan_parent": {
+    "message": "Pindai elemen induk"
+  },
+  "toggle_grid": {
+    "message": "Matikan garis bentuk"
+  },
+  "pin_shortcut": {
+    "message": "Pin box"
+  },
+
+  "exit": {
+    "message": "Tutup CSS Scan"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "continue": {
+    "message": "Lanjutkan"
+  },
+  "move": {
+    "message": "Pindah"
+  },
+  "shortcuts": {
+    "message": "Shortcut"
+  },
+  "feedback": {
+    "message": "Umpan Balik"
+  },
+  "options": {
+    "message": "Pilihan"
+  },
+  "whats_new": {
+    "message": "What's New"
+  },
+  "activate": {
+    "message": "Aktifkan ekstensi"
+  },
+  "close_shortcut": {
+    "message": "Tutup ekstensi"
+  },
+
+
+  "options_copy_classes": {
+    "message": "Copy CSS selector"
+  },
+  "options_dont_copy_pseudo": {
+    "message": "Don't copy it"
+  },
+  "options_copy_pseudo": {
+    "message": "Copy it separately"
+  },
+  "options_nest_pseudo": {
+    "message": "Copy it nested (SASS/LESS)"
+  },
+  "options_ignore_prefixes": {
+    "message": "Ignore browser vendor prefixes"
+  },
+  "options_ignore_inherited": {
+    "message": "Ignore inherited styles"
+  },
+  "options_ignore_bxsizing": {
+    "message": "Abaikan box-sizing"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Truncated selector"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "Convert font-size measure units to px"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Halaman perlu difokuskan agar pintasan berfungsi. Lebih mudah jika Anda selalu membuka ekstensi dengan menggunakan shortcut."
+  },
+  "shortcuts_warning_2": {
+    "message": "Anda juga bisa mengubahnya dengan mengkliknya."
+  },
+
+  "options_label_click_action": {
+    "message": "On click:"
+  },
+  "options_click_to_pin": {
+    "message": "Pin the CSS window"
+  },
+  "options_click_to_copy": {
+    "message": "Copy code"
+  },
+  "options_label_pseudos": {
+    "message": "Pseudo-classes and pseudo-elements:"
+  },
+  "options_label_html": {
+    "message": "HTML code:"
+  },
+  "options_label_display": {
+    "message": "Display:"
+  },
+  "options_label_miscellaneous": {
+    "message": "Miscellaneous:"
+  },
+  "options_dont_copy_html": {
+    "message": "Don't copy it"
+  },
+  "options_copy_html": {
+    "message": "Copy it separately"
+  },
+
+
+  "overlapping": {
+    "message": "tumpang tindih"
+  },
+  "hold": {
+    "message": "memegang"
+  },
+  "click_traverse": {
+    "message": "dan klik untuk melintasi"
+  },
+  "no_styles": {
+    "message": "Tidak ada gaya ditemukan"
+  },
+  "loading": {
+    "message": "Memuat gaya... Coba lagi"
+  },
+  "local_error": {
+    "message": "Kesalahan: Gaya untuk elemen ini tidak dapat diuraikan karena stylesheetnya berasal dari file sistem lokal. Agar CSS Scan berfungsi, aktifkan server lokal untuk halaman ini atau unggah stylesheet ke server eksternal"
+  },
+  "click_to_copy": {
+    "message": "Klik untuk menyalin, tekan spasi untuk menyematkan"
+  },
+  "copied": {
+    "message": "Disalin ke clipboard"
+  },
+
+  "context_menu": {
+    "message": "Inspect with CSS Scan"
+  }
+}

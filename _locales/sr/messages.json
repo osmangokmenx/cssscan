@@ -1,0 +1,148 @@
+{
+	"description": {
+		"message": "Brzo pregledaj i kopiraj procesuirani CSS"
+	},
+	"pause_continue": {
+		"message": "Pauza / Nastavi"
+	},
+	"scan_parent": {
+		"message": "Skeniraj nadređeni element"
+	},
+	"toggle_grid": {
+		"message": "Prebaci na grid"
+	},
+	"pin_shortcut": {
+		"message": "Zakači rezultat"
+	},
+
+	"exit": {
+		"message": "Zatvorite CSS Scan"
+	},
+	"pause": {
+		"message": "Pauza"
+	},
+	"continue": {
+		"message": "Nastavi"
+	},
+	"move": {
+		"message": "Pomeri"
+	},
+	"shortcuts": {
+		"message": "Prečica"
+	},
+	"feedback": {
+		"message": "Povratna informacija"
+	},
+	"options": {
+		"message": "Opcije"
+	},
+	"whats_new": {
+		"message": "What's New"
+	},
+	"activate": {
+		"message": "Aktiviraj dodatak"
+	},
+	"close_shortcut": {
+		"message": "Zatvori dodatak"
+	},
+
+
+	"options_copy_classes": {
+		"message": "Copy CSS selector"
+	},
+	"options_dont_copy_pseudo": {
+		"message": "Don't copy it"
+	},
+	"options_copy_pseudo": {
+		"message": "Copy it separately"
+	},
+	"options_nest_pseudo": {
+		"message": "Copy it nested (SASS/LESS)"
+	},
+	"options_ignore_prefixes": {
+		"message": "Ignore browser vendor prefixes"
+	},
+	"options_ignore_inherited": {
+		"message": "Ignore inherited styles"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Ignore box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Truncated selector"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Konvertuj veličinu fonta u px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "Stranica treba biti u fokusu da bi prečice radile. Najlakše je ako uvek pokrenete dodatak preko prečice."
+	},
+	"shortcuts_warning_2": {
+		"message": "Takođe ih možete promeniti klikom na njih."
+	},
+
+	"options_label_click_action": {
+		"message": "On click:"
+	},
+	"options_click_to_pin": {
+		"message": "Pin the CSS window"
+	},
+	"options_click_to_copy": {
+		"message": "Copy code"
+	},
+	"options_label_pseudos": {
+		"message": "Pseudo-classes and pseudo-elements:"
+	},
+	"options_label_html": {
+		"message": "HTML code:"
+	},
+	"options_label_display": {
+		"message": "Display:"
+	},
+	"options_label_miscellaneous": {
+		"message": "Miscellaneous:"
+	},
+	"options_dont_copy_html": {
+		"message": "Don't copy it"
+	},
+	"options_copy_html": {
+		"message": "Copy it separately"
+	},
+
+
+	"overlapping": {
+		"message": "preklapanje"
+	},
+	"hold": {
+		"message": "drži"
+	},
+	"click_traverse": {
+		"message": "i kliknite da biste prešli"
+	},
+	"no_styles": {
+		"message": "Stilovi nisu pronađeni"
+	},
+	"loading": {
+		"message": "Učitavanje stilova...Pokušaj ponovo"
+	},
+	"local_error": {
+		"message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+	},
+	"click_to_copy": {
+		"message": "Klikni za kopiranje, pritisni space da zakačiš"
+	},
+	"copied": {
+		"message": "Kopirano u ostavu"
+	},
+
+	"context_menu": {
+		"message": "Pregledaj sa CSS Scan"
+	}
+}

@@ -1,0 +1,148 @@
+{
+  "description": {
+    "message": "Kiểm tra và sao chép nhanh mã CSS"
+  },
+  "pause_continue": {
+    "message": "Tạm dừng / Tiếp tục"
+  },
+  "scan_parent": {
+    "message": "Quét thành phần mẹ"
+  },
+  "toggle_grid": {
+    "message": "Chuyển sang chế độ lưới"
+  },
+  "pin_shortcut": {
+    "message": "Pin box"
+  },
+
+  "exit": {
+    "message": "Đóng CSS Scan"
+  },
+  "pause": {
+    "message": "Tạm dừng"
+  },
+  "continue": {
+    "message": "Tiếp tục"
+  },
+  "move": {
+    "message": "Di chuyển"
+  },
+  "shortcuts": {
+    "message": "Các phím tắt"
+  },
+  "feedback": {
+    "message": "Phản hồi"
+  },
+  "options": {
+    "message": "Các lựa chọn"
+  },
+  "whats_new": {
+    "message": "What's New"
+  },
+  "activate": {
+    "message": "Kích hoạt phần mở rộng"
+  },
+  "close_shortcut": {
+    "message": "Đóng phần mở rộng"
+  },
+
+
+  "options_copy_classes": {
+    "message": "Copy CSS selector"
+  },
+  "options_dont_copy_pseudo": {
+    "message": "Don't copy it"
+  },
+  "options_copy_pseudo": {
+    "message": "Copy it separately"
+  },
+  "options_nest_pseudo": {
+    "message": "Copy it nested (SASS/LESS)"
+  },
+  "options_ignore_prefixes": {
+    "message": "Ignore browser vendor prefixes"
+  },
+  "options_ignore_inherited": {
+    "message": "Ignore inherited styles"
+  },
+  "options_ignore_bxsizing": {
+    "message": "Bỏ qua box-sizing"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Truncated selector"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "Quy đổi đơn vị font-size sang px"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Trang cần được chọn để phím tắt có thể hoạt động. Bạn nên luôn luôn mở phần mở rộng bằng phím tắt."
+  },
+  "shortcuts_warning_2": {
+    "message": "Bạn cũng có thể thay đổi chúng khi nhấn lên nút này."
+  },
+
+  "options_label_click_action": {
+    "message": "On click:"
+  },
+  "options_click_to_pin": {
+    "message": "Pin the CSS window"
+  },
+  "options_click_to_copy": {
+    "message": "Copy code"
+  },
+  "options_label_pseudos": {
+    "message": "Pseudo-classes and pseudo-elements:"
+  },
+  "options_label_html": {
+    "message": "HTML code:"
+  },
+  "options_label_display": {
+    "message": "Display:"
+  },
+  "options_label_miscellaneous": {
+    "message": "Miscellaneous:"
+  },
+  "options_dont_copy_html": {
+    "message": "Don't copy it"
+  },
+  "options_copy_html": {
+    "message": "Copy it separately"
+  },
+
+
+  "overlapping": {
+    "message": "trùng nhau"
+  },
+  "hold": {
+    "message": "giữ phím"
+  },
+  "click_traverse": {
+    "message": "và nhấn chuột để chuyển qua"
+  },
+  "no_styles": {
+    "message": "Không tìm thấy kiểu"
+  },
+  "loading": {
+    "message": "Đang tải kiểu... Xin thử lại"
+  },
+  "local_error": {
+    "message": "Lỗi: Không thể phân tích kiểu của thành phần này vì bộ định kiểu được đặt ở hệ thống tệp địa phương. Để CSS Scan hoạt động, vui lòng bật server địa phương cho trang này hoặc tải bộ định kiểu vào một server ngoại vi."
+  },
+  "click_to_copy": {
+    "message": "Nhần chuột để sao chép, nhấn phím space để ghim"
+  },
+  "copied": {
+    "message": "Sao chép vào bộ nhớ tạm"
+  },
+
+  "context_menu": {
+    "message": "Kiểm tra bằng CSS Scan"
+  }
+}

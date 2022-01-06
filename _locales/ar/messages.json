@@ -1,0 +1,150 @@
+{
+	"description": {
+		"message": "افحص و انسخ أنماط ال CSS"
+	},
+	"pause_continue": {
+		"message": "إيقاف / استمرار"
+	},
+	"scan_parent": {
+		"message": "افحص العنصر الأب"
+	},
+	"toggle_grid": {
+		"message": "تبديل ظهور شبكة المربعات"
+	},
+	"pin_shortcut": {
+		"message": "ثبت النتيجة"
+	},
+
+	"exit": {
+		"message": "أغلق فاحص ال CSS"
+	},
+	"pause": {
+		"message": "إيقاف"
+	},
+	"continue": {
+		"message": "استمرار"
+	},
+	"move": {
+		"message": "حرَك"
+	},
+	"shortcuts": {
+		"message": "اختصارات"
+	},
+	"feedback": {
+		"message": "الملاحظات"
+	},
+	"options": {
+		"message": "خيارات"
+	},
+	"whats_new": {
+		"message": "What's New"
+	},
+	"activate": {
+		"message": "فعَل الإضافة"
+	},
+	"close_shortcut": {
+		"message": "أغلق الإضافة"
+	},
+
+
+	"options_copy_classes": {
+		"message": "Copy CSS selector"
+	},
+	"options_dont_copy_pseudo": {
+		"message": "Don't copy it"
+	},
+	"options_copy_pseudo": {
+		"message": "Copy it separately"
+	},
+	"options_nest_pseudo": {
+		"message": "Copy it nested (SASS/LESS)"
+	},
+	"options_ignore_bxsizing": {
+		"message": "تجاهل box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Truncated selector"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "حول وحدة حجم الخط الى بكسل px"
+	},
+	"options_ignore_prefixes": {
+		"message": "Ignore browser vendor prefixes"
+	},
+	"options_ignore_inherited": {
+		"message": "Ignore inherited styles"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "تحتاج الصفحة أن تكون مركزة بالنقرعليها لتشغيل الإضافة. من الأفضل أن تفتح الإضافة دائما عن طريق مفتاح الإختصار"
+	},
+	"shortcuts_warning_2": {
+		"message": "تستطيع تغييرهم دائمًا عن طريق الضغط عليهم"
+	},
+
+	
+
+	"options_label_click_action": {
+		"message": "On click:"
+	},
+	"options_click_to_pin": {
+		"message": "Pin the CSS window"
+	},
+	"options_click_to_copy": {
+		"message": "Copy code"
+	},
+	"options_label_pseudos": {
+		"message": "Pseudo-classes and pseudo-elements:"
+	},
+	"options_label_html": {
+		"message": "HTML code:"
+	},
+	"options_label_display": {
+		"message": "Display:"
+	},
+	"options_label_miscellaneous": {
+		"message": "Miscellaneous:"
+	},
+	"options_dont_copy_html": {
+		"message": "Don't copy it"
+	},
+	"options_copy_html": {
+		"message": "Copy it separately"
+	},
+
+
+	"overlapping": {
+		"message": "متداخلة مع بعض"
+	},
+	"hold": {
+		"message": "اضغط و ثبت زر"
+	},
+	"click_traverse": {
+		"message": "و انقر للعبور"
+	},
+	"no_styles": {
+		"message": "لا توجد أنماط"
+	},
+	"loading": {
+		"message": "جاري تحميل الأنماط.. حاول مرة أخرى"
+	},
+	"local_error": {
+		"message": "خطأ: أنماط هذا العنصر لا يمكن تحليلها لأن ملف الأنماط أتى من ملف محلي بالنظام. لكي تشتغل الإضافة ، يرجى تشغيل خادم محلي لهذه الصفحة أو رفع ملفات الأنماط لخادم خارجي."
+	},
+	"click_to_copy": {
+		"message": "انقر للنسخ ، اضغط زر المسافة للتثبيت"
+	},
+	"copied": {
+		"message": "تم النسخ الى الحافظة"
+	},
+
+	"context_menu": {
+		"message": "افحص المحتوى ب CSS Scan"
+	}
+}

@@ -1,0 +1,148 @@
+{
+	"description": {
+		"message": "به سرعت CSS محاسبه شده را بازرسی و کپی کنید"
+	},
+	"pause_continue": {
+		"message": "توقف / ادامه"
+	},
+	"scan_parent": {
+		"message": "اسکن عنصر والدین"
+	},
+	"toggle_grid": {
+		"message": "تنظیم گريد"
+	},
+	"pin_shortcut": {
+		"message": "نتیجه را پن کنید"
+	},
+
+	"exit": {
+		"message": "اسکن CSS را ببندید"
+	},
+	"pause": {
+		"message": "توقف"
+	},
+	"continue": {
+		"message": "ادامه "
+	},
+	"move": {
+		"message": "حرکت"
+	},
+	"shortcuts": {
+		"message": "میانبر"
+	},
+	"feedback": {
+		"message": "بازخورد"
+	},
+	"options": {
+		"message": "گزینه ها"
+	},
+	"whats_new": {
+		"message": "What's New"
+	},
+	"activate": {
+		"message": "برنامه افزودنی را فعال کنید"
+	},
+	"close_shortcut": {
+		"message": "برنامه افزودنی را ببندید"
+	},
+
+
+	"options_copy_classes": {
+		"message": "نام کلاس ها را کپی کنید"
+	},
+	"options_dont_copy_pseudo": {
+		"message": "Don't copy it"
+	},
+	"options_copy_pseudo": {
+		"message": "Copy it separately"
+	},
+	"options_nest_pseudo": {
+		"message": "Copy it nested (SASS/LESS)"
+	},
+	"options_ignore_prefixes": {
+		"message": "Ignore browser vendor prefixes"
+	},
+	"options_ignore_inherited": {
+		"message": "Ignore inherited styles"
+	},
+	"options_ignore_bxsizing": {
+		"message": "چشم پوشیدن box-sizing"
+	},
+	"options_show_grid": {
+		"message": "نشان دادن grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Truncated selector"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "واحدهای اندازه گیری اندازه قلم را به px تبدیل کنید"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "برای کارکردن کلید های میانبر باید صفحه را تمرکز کنید. اگر همیشه پسوند را با میانبر باز کنید ، ساده تر است."
+	},
+	"shortcuts_warning_2": {
+		"message": "همچنین می توانید با کلیک کردن بر روی آنها ، آنها را تغییر دهید."
+	},
+
+	"options_label_click_action": {
+		"message": "On click:"
+	},
+	"options_click_to_pin": {
+		"message": "Pin the CSS window"
+	},
+	"options_click_to_copy": {
+		"message": "Copy code"
+	},
+	"options_label_pseudos": {
+		"message": "Pseudo-classes and pseudo-elements:"
+	},
+	"options_label_html": {
+		"message": "HTML code:"
+	},
+	"options_label_display": {
+		"message": "Display:"
+	},
+	"options_label_miscellaneous": {
+		"message": "Miscellaneous:"
+	},
+	"options_dont_copy_html": {
+		"message": "Don't copy it"
+	},
+	"options_copy_html": {
+		"message": "Copy it separately"
+	},
+
+
+	"overlapping": {
+		"message": "با هم تداخل دارند"
+	},
+	"hold": {
+		"message": "را نگه دارید"
+	},
+	"click_traverse": {
+		"message": "و برای گذر کلیک کنید"
+	},
+	"no_styles": {
+		"message": "هیچ سبکی یافت نشد"
+	},
+	"loading": {
+		"message": "بارگیری سبک ها ... دوباره امتحان کنید"
+	},
+	"local_error": {
+		"message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+	},
+	"click_to_copy": {
+		"message": "برای کپی کردن کلیک کنید ، space را برای پین کردن فشار دهید"
+	},
+	"copied": {
+		"message": "در کلیپ بورد کپی شد"
+	},
+
+	"context_menu": {
+		"message": "بازرسی با اسکن CSS"
+	}
+}

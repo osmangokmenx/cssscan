@@ -1,0 +1,148 @@
+{
+	"description": {
+		"message": "Inspecione e copie CSS computado rapidamente"
+	},
+	"pause_continue": {
+		"message": "Pausar / Continuar"
+	},
+	"scan_parent": {
+		"message": "Escanear elemento pai"
+	},
+	"toggle_grid": {
+		"message": "Ativar grid"
+	},
+	"pin_shortcut": {
+		"message": "Fixar resultado"
+	},
+
+	"exit": {
+		"message": "Fechar CSS Scan"
+	},
+	"pause": {
+		"message": "Pausar"
+	},
+	"continue": {
+		"message": "Continuar"
+	},
+	"move": {
+		"message": "Mover"
+	},
+	"shortcuts": {
+		"message": "Atalhos"
+	},
+	"feedback": {
+		"message": "Feedback"
+	},
+	"options": {
+		"message": "Opções"
+	},
+	"whats_new": {
+		"message": "Novidades"
+	},
+	"activate": {
+		"message": "Ativar a extensão"
+	},
+	"close_shortcut": {
+		"message": "Fechar a extensão"
+	},
+
+
+	"options_copy_classes": {
+		"message": "Copiar CSS selector"
+	},
+	"options_dont_copy_pseudo": {
+		"message": "Não copiar"
+	},
+	"options_copy_pseudo": {
+		"message": "Copiar separadamente"
+	},
+	"options_nest_pseudo": {
+		"message": "Copiar agrupado (SASS/LESS)"
+	},
+	"options_ignore_prefixes": {
+		"message": "Ignorar vendor prefixes do navegador"
+	},
+	"options_ignore_inherited": {
+		"message": "Ignorar estilos herdados"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Ignorar box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Linhas-guia"
+	},
+	"options_truncate_classes": {
+		"message": "Seletores truncados"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Converter medidas font-size para px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "A página precisar estar focada para os atalhos funcionarem. É mais fácil se você sempre abrir a extensão pelo atalho."
+	},
+	"shortcuts_warning_2": {
+		"message": "Você também pode mudá-los clicando neles."
+	},
+
+	"options_label_click_action": {
+		"message": "Ao clicar:"
+	},
+	"options_click_to_pin": {
+		"message": "Fixar a janela CSS"
+	},
+	"options_click_to_copy": {
+		"message": "Copiar código"
+	},
+	"options_label_pseudos": {
+		"message": "Pseudo-classes e pseudo-elementos:"
+	},
+	"options_label_html": {
+		"message": "Código HTML:"
+	},
+	"options_label_display": {
+		"message": "Mostrar:"
+	},
+	"options_label_miscellaneous": {
+		"message": "Variados:"
+	},
+	"options_dont_copy_html": {
+		"message": "Não copiar"
+	},
+	"options_copy_html": {
+		"message": "Copiar separadamente"
+	},
+
+
+	"overlapping": {
+		"message": "sobrepondo"
+	},
+	"hold": {
+		"message": "segure"
+	},
+	"click_traverse": {
+		"message": "e clique para atravessar"
+	},
+	"no_styles": {
+		"message": "Nenhum estilo encontrado"
+	},
+	"loading": {
+		"message": "Carregando estilos... Tente novamente"
+	},
+	"local_error": {
+		"message": "Erro: Os estilos para esse elemento não podem ser processador pois seu CSS está vindo de um arquivo do sistema local. Para o CSS Scan funcionar, por favor ligue um servidor para essa página ou carregue-a num servidor externo."
+	},
+	"click_to_copy": {
+		"message": "Clique para copiar, pressione espaço para fixar"
+	},
+	"copied": {
+		"message": "Copiado para a área de transferência"
+	},
+
+	"context_menu": {
+		"message": "Inspecionar com o CSS Scan"
+	}
+}
